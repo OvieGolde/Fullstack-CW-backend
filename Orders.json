@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "lessonId": 1,
+    "customerName": "Maximilian Knight",
+    "quantity": 2,
+    "totalPrice": 100,
+    "status": "completed"
+  },
+  {
+    "id": 2,
+    "lessonId": 2,
+    "customerName": "Isabella Winters",
+    "quantity": 1,
+    "totalPrice": 40,
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "lessonId": 3,
+    "customerName": "Oliver Montgomery",
+    "quantity": 3,
+    "totalPrice": 75,
+    "status": "completed"
+  }
+]

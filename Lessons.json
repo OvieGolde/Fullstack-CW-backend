@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "subject": "Mathematics",
+      "location": "London",
+      "price": 50,
+      "spaces": 10,
+      "rating": 4,
+      "imagePath": "/src/assets/icons/math-icon.png",
+      "imageAlt": "Maths Icon"
+    },
+    {
+      "id": 2,
+      "subject": "Spanish",
+      "location": "London",
+      "price": 40,
+      "spaces": 10,
+      "rating": 3,
+      "imagePath": "/src/assets/icons/spanish-icon.png",
+      "imageAlt": "Spanish Icon"
+    },
+    {
+      "id": 3,
+      "subject": "Science",
+      "location": "Online",
+      "price": 25,
+      "spaces": 10,
+      "rating": 5,
+      "imagePath": "/src/assets/icons/science-icon.png",
+      "imageAlt": "Science Icon"
+    }
+  ]
+  
